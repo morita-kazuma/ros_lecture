@@ -1,3 +1,4 @@
+libcurl: (51) SSL: no alternative certificate subject name matches target host name 'api.ignitionfuel.org'
 <launch>
   <arg name="rvizconfig" default="$(find urdf_tutorial)/rviz/urdf.rviz" />
   
